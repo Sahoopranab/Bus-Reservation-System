@@ -67,11 +67,10 @@ Enter customer username: john_doe
 Enter customer password: password123
 Customer login successful!
 
-
-Contact
-For any questions or suggestions, feel free to contact me at sahoopranab2004@gmail.com
-
 # Book a seat
 Enter Bus ID: 1
 Enter seat number (1-40): 5
 Seat booked successfully!
+
+#Contact
+For any questions or suggestions, feel free to contact me at sahoopranab2004@gmail.com
